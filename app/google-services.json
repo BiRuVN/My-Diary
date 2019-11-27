@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39796947063",
+    "firebase_url": "https://thematic-vertex-251801.firebaseio.com",
+    "project_id": "thematic-vertex-251801",
+    "storage_bucket": "thematic-vertex-251801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39796947063:android:ac952ac1c279525579ee72",
+        "android_client_info": {
+          "package_name": "com.example.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39796947063-i3lu4hlmmvp7olvgioj516uvvon9i9bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0krm0NWgYyhrizXW7TdoXf5xBRd9bn10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39796947063-i3lu4hlmmvp7olvgioj516uvvon9i9bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
